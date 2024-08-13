@@ -1,0 +1,28 @@
+### Atajos
+
+ctrl + P ----> Moverse entre archivos del proyecto
+ctrl + D ----> Selecion de variables iguales de una en una hacia abajo
+ctrl + shift + L ----> Selecion de variables iguales de una en una hacia abajo
+ctrl + U ----> Deselecion de variables iguales de una en una hacia arriba
+ctrl + tab ----> Navegar entre diferentes archivos abiertos
+ctrl + shift + tab ----> Navegar entre diferentes archivos abiertos hacia atras
+ctrl + G ----> para ir a una linea especifica
+ctrl + L ----> para seleccionar una linea completa
+alt + arriba ----> subir la linea selecionada
+alt + shift + bajar ----> duplicar la linea selecionada encima
+alt + bajar ----> bajar la linea selecionada
+alt + shift + bajar ----> duplicar la linea selecionada debajo
+ctrl + derecha/izquierda ----> desplazar curson una palabra completa
+shift + derecha/izquierda ----> selecionar letras o palabras
+alt + shift + A ----> Comentar todo lo que tengamos selecionado
+ctrl + alt mas arriba/abajo ----> Sacar varios cursores
+alt + shift + I ----> Agregar un cursor a cada linea seleccionada
+ctrl + arriba/abajo ----> Scroll en la pagina
+alt + Z ----> adaptar linea selecionada al largo de la pagina
+shift + alt + F ----> Formatea el archivo completo(tabulaciones)
+ctrl + B ----> abrir o cerrar explorador de archivos lateral
+ctrl + shift + F ----> abrir barra de busqueda en lateral izquierdo
+ctrl + fF ----> abrir busqueda
+alt + enter ----> seleccionar todas las coincidencias de la busqueda
+ctrl + spacio ----> sugerencias de atributos de la etiqueta
+ctrl + shift + spacio ----> sugerencias de parametros de los objetos
